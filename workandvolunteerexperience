@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+   <style>
+   
+     body {
+      background-color: cornflowerblue;
+     }
+     
+     h1 {
+      color: blue;
+     }
+     
+     body {
+      color: blue;
+     }
+     
+    
+     
+     hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 6px solid blue;
+      margin: 1em 0;
+      padding: 0; 
+     }
+     
+     .column {
+      float: left;
+      padding: 15px;
+     }
+     
+     .column img {
+      float: right;
+     }
+      
+     .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+     }
+      
+     .menu {
+      width: 20%
+     }
+   
+     .content {
+      width: 70%;
+     }
+      
+     .menu ul {
+      list-style: none;
+      margin: 0'
+      padding: 0;
+     }
+     
+     .menu ul {
+      list-style: none;
+      margin: 0'
+      padding: 0;
+     }
+     
+    .menu li {
+      padding: 8px;
+      margin-bottom: 8px;
+      background-color: ;
+      color: black;
+     }
+     
+    .menu li: hover {
+      background-color:
+      }
+      
+      html {
+       border-style: solid;
+       border-width: 7px;
+       border-color: blue;
+      }
+     
+     
+   
+   </style>
+    <title>Electronic Portfolio</title>
+  </head>
+
+  <body>
+    <h1>Work & Volunteer Experience<h1>
+      <hr>
+      
+    
